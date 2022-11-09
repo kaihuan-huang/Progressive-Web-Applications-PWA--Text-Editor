@@ -15,6 +15,7 @@ Progressive-Web-Applications-PWA--Text-Editor is a single-page application that 
 Used a package called IDB, which is a lightweight wrapper around the IndexedDB API. It features many methods that are useful for storing and retrieving data and is used by companies like Google and Mozilla.
 
 - Deployed link: https://github.com/kaihuan-huang/Progressive-Web-Applications-PWA--Text-Editor
+- App link: https://warm-eyrie-41345.herokuapp.com/
 
 
 ## More details
@@ -54,10 +55,9 @@ THEN I should have proper build scripts for a webpack application
 
 The following images demonstrate the web application's appearance and functionality in Insomnia:
 
-![insomnia](images/example.png)
-![insomnia](images/example.png)
-![insomnia](images/example.png)
-![insomnia](images/example.png)
+![insomnia](images/Manifest.png)
+![insomnia](images/Storage.png)
+
 
 
 
@@ -69,7 +69,7 @@ Run `npm start ` to start the Progressive-Web-Applications-PWA--Text-Editor.
 
 ## Usage 
 Use inquirer from your command line to answer questions about your project.
-View walk through video here - [Progressive-Web-Applications-PWA--Text-Editor](https://drive.google.com/file/d/1zeQ3AUeuJwaU9InUIp6IfpriZZGwY-zE/view)<br>
+View walk through video here - [Progressive-Web-Applications-PWA--Text-Editor](https://drive.google.com/file/d/13Qj2b3quDUNK2buQ3RptqXhNmafXgFVt/view)<br>
 
 
 ## Contributing 
